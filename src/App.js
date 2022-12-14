@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+//eğer event parametre alıyorsa tekrar callback yapmak lazım
